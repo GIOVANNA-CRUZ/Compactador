@@ -1,0 +1,39 @@
+body{
+	background-color:#4682B4;
+}
+.formulario{
+	height:400px;
+	width:500px;
+	background-color:#87CEEB;
+	border-radius:12px;
+	margin-left:400px;
+	margin-top:50px;
+	padding-top:20px;
+}
+.input{
+	margin-top:30px;
+	border-radius:5px;
+	height:40px;
+	width:400px;
+	border:none;
+	margin-left:35px;
+}
+#compactador{
+	margin-left:155px;
+}
+#opcao{
+	margin-top:20px;
+	margin-left:18px;
+}
+#enviar{
+	margin-left:90px;
+	margin-top:50px;
+	height:40px;
+	width:300px;
+	background-color:#0000FF;
+	border:none;
+}
+
+#enviar:hover{
+	background-color:#6495ED;
+}
